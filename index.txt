@@ -1,4 +1,4 @@
-## used linux command like torch,nano
+## used linux command like touch,nano
 public class Main{
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
